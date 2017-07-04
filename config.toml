@@ -1,4 +1,4 @@
-## baseURL = "http://nikimonikado.gitlab.io/hugo-travelify-theme/"
+baseURL = "https://martaorlanska.github.io/blog/"
 title = "Marta Orlanska"
 subtitle = "Travel Blog"
 languageCode = "en-us"

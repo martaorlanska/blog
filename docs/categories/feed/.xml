@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marta Orlanska</title>
-    <link>/categories/</link>
+    <link>https://martaorlanska.github.io/blog/categories/</link>
     <description>Recent content in Categories on Marta Orlanska</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://martaorlanska.github.io/blog/categories/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lorem</title>
-      <link>/categories/lorem/</link>
+      <link>https://martaorlanska.github.io/blog/categories/lorem/</link>
       <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
       
-      <guid>/categories/lorem/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New York</title>
-      <link>/categories/new-york/</link>
+      <link>https://martaorlanska.github.io/blog/categories/new-york/</link>
       <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
       
-      <guid>/categories/new-york/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/new-york/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other Destinations</title>
-      <link>/categories/other-destinations/</link>
+      <link>https://martaorlanska.github.io/blog/categories/other-destinations/</link>
       <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
       
-      <guid>/categories/other-destinations/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/other-destinations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>/categories/programming/</link>
+      <link>https://martaorlanska.github.io/blog/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo</title>
-      <link>/categories/pseudo/</link>
+      <link>https://martaorlanska.github.io/blog/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>/categories/pseudo/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>/categories/starting/</link>
+      <link>https://martaorlanska.github.io/blog/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>/categories/starting/</guid>
+      <guid>https://martaorlanska.github.io/blog/categories/starting/</guid>
       <description></description>
     </item>
     
