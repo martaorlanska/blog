@@ -1,4 +1,4 @@
-baseURL = "https://martaorlanska.github.io/blog/"
+baseurl = "https://martaorlanska.github.io/blog/"
 title = "Marta Orlanska"
 subtitle = "Travel Blog"
 languageCode = "en-us"
